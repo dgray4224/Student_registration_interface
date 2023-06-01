@@ -7,3 +7,7 @@ it to a SQLite database on the backend. Looking back on it, there is some stuff 
 the program works just like a registration system. Users can add courses and delete courses and the host can manage the students records through SQLite. 
 
 Ive included the code, the SQLite database, and a few snippets of the frontend interface to display the design. Hope you enjoy.
+
+
+The output looks as follows:
+![image](https://github.com/dgray4224/Student_registration_interface/assets/121121172/dd3c5440-d13b-44fd-8ac1-616cadf142ab)
