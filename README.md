@@ -1,4 +1,6 @@
 # Student_registration_interface
+
+![image](https://github.com/dgray4224/Student_registration_interface/assets/121121172/dd3c5440-d13b-44fd-8ac1-616cadf142ab)
 This project is a student registration system that uses Tkinter on the frontend and SQLITE on the backend
 
 This is my very first coding project done in spring of 2021. 
@@ -13,4 +15,4 @@ Ive included the code, the SQLite database, and a snippet of the interface to di
 
   
   
-![image](https://github.com/dgray4224/Student_registration_interface/assets/121121172/dd3c5440-d13b-44fd-8ac1-616cadf142ab)
+
